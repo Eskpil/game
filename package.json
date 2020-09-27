@@ -1,0 +1,17 @@
+{
+  "name": "nerd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "stop": "index.js"
+  },
+  "author": "Eskpil",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
